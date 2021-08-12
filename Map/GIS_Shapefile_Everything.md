@@ -41,9 +41,22 @@
 KML and Shapefiles could contain the exact same data, however KML is much more suited to displaying time based track information, whereas shapefiles are more suited to displaying Geometries, like boundaries, areas, roads, etc.
 ```
 
-### Examples
+### Other files format for GIS
+
+* [Files Formats for GIS - University of Delaware](https://sites.udel.edu/gis/file-formats-for-gis/)
+
+
+### GeoJSON
+
+* GeoJSON is an open standard geospatial data interchange format that represents simple geographic features and their nonspatial attributes.
+* It produces and JSON format encoding a variety of geographic data structure.
+* It uses a geographic coordinate reference system, World Geodetic System 1984, and units of decimal grees.
+
+### Awesome Links
 
 * [Good example of GIS](https://learngis.maps.arcgis.com/apps/View/index.html?appid=c38aaa416d984250870bffa33b5f91ee)
+* https://stackoverflow.com/questions/63167714/add-zipped-shapefiles-to-a-react-leaflet-map
+* https://stackoverflow.com/questions/43015854/large-dataset-of-markers-or-dots-in-leaflet
 
 #### References
 
@@ -51,6 +64,7 @@ KML and Shapefiles could contain the exact same data, however KML is much more s
 * https://www.geospatialworld.net/blogs/what-is-arcgis/
 * https://www.lifewire.com/kml-file-4140272
 * https://enterprise.arcgis.com/pt-br/portal/latest/use/shapefiles.htm#:~:text=Um%20shapefile%20%C3%A9%20um%20formato,cont%C3%A9m%20uma%20classe%20de%20fei%C3%A7%C3%A3o.
+* https://doc.arcgis.com/en/arcgis-online/reference/geojson.htm#:~:text=GeoJSON%20is%20an%20open%20standard,variety%20of%20geographic%20data%20structures.
 
 ## Homepage
 
