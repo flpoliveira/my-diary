@@ -1,7 +1,7 @@
 ## My Diary
 
-Sometimes I have to study some interesting topic for work or college.
-I will keep all my surveys is this repository.
+Sometimes I have to study some interesting topics for work or college.
+I will keep all my surveys in this repository.
 
 ---
 
@@ -11,4 +11,12 @@ I will keep all my surveys is this repository.
     <summary>Map</summary>
 
 * [GIS, Shapefile, KML, ... a simple survey about these files](./Map/GIS_Shapefile_Everything.md)
+
+</details>
+
+<details>
+    <summary>Security</summary>
+
+* [One Time Password used for 2FA](./Security/2FA_OneTimePassword.md)
+
 </details>
