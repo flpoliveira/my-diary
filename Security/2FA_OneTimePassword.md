@@ -5,7 +5,7 @@ Implementing a sample NodeJS Backend for 2FA authentication.
 #### [HTOP - RFC 4226 - HMAC-Based One-Time Password Algorithm](https://tools.ietf.org/html/rfc4226 "RFC 4226")
 
 
-<img src="/image/OneTimePassword.png">
+<img src="./image/OneTimePassword.png">
 
 * How the Algorithm works? 
     * We encrypt a secret and a counter.
@@ -49,3 +49,7 @@ Implementing a sample NodeJS Backend for 2FA authentication.
 <code>
 otpauth://totp/Google%3Aemail%40gmail.com?secret=NotBase32Secret&issuer=Google
 </code>
+
+## Homepage
+
+[Back](../README.md)
